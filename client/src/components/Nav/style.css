@@ -1,6 +1,6 @@
 .navbar {
     overflow: hidden;
-    background: transparent !important;
+    background-color: rgb(29, 157, 186);
     position: fixed;
     top: 0;
     width: 100%;
@@ -16,24 +16,7 @@
     background-color: #ffffff;
 }
 
-button {
-    border-radius: 8px !important;
-}
-
-
-button {
-    transition-duration: 0.4s !important;
-  }
-  
-button:hover {
-    background-color: #2196F3 !important; /* Green */
-    color: white !important;
-  }
-
-a {
-    color: #2196F3 
-}
-
-a:hover{
-    color: white !important;
+.nav-link {
+    font-weight: bold;
+    font-size: 16px;
 }
