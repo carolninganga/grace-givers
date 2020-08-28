@@ -7,7 +7,15 @@ img {
     height: 600px;
     position:flex;
     align-items: center;
-    margin-top: 20%;
+    margin-top: 15%;
     margin-left: 33%;
     border-radius: 2rem;
+    /* box-shadow: 10px 10px 5px rgb(29, 157, 186); */
+    
+}
+
+.discription {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
 }

@@ -60,11 +60,6 @@ class Nav extends Component {
               </Link>
             </li>
           </ul>
-          {/* <div className="supportbtn">
-          <button><a href="https://chatbotconvin.herokuapp.com/">
-            Support
-        </a></button>
-        </div> */}
         </div>
       </nav>
     );
