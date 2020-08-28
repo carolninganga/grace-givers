@@ -5,9 +5,9 @@ import ContactUs from '../components/ContactUs/ContactUs';
 const About = () => {
     return (
         <div>
-          <div className="row">
+          {/* <div className="row">
           <Team />
-          </div>
+          </div> */}
           <div className="row">
           <ContactUs />
           </div>
