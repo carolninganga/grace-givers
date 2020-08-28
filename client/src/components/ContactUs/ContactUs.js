@@ -27,7 +27,7 @@ class ContactUs extends Component {
     handleSubmit(event) {
         event.preventDefault();
         Axios.post('/api/contact-us/send', this.state).then(function(res){
-            alert("Your message has been sent to the Foodie Team!")
+            alert("Your message has been sent to the Grace Givers Team!")
         }).catch(function(err){
             console.log(err);
         });
