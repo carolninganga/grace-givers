@@ -27,11 +27,11 @@ class Home extends Component {
                             Why do we use it?
                             It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
                             </p>
-                            <div className="sociallinks">
+                            {/* <div className="sociallinks">
                             <a href="carolninganga@gmail.com"><i className="fab fa-instagram-square"></i></a>
                             <a target="_blank"  href="https://github.com/carolninganga"><i className="fab fa-facebook-square"></i></a>
                             <a target="_blank"  href="https://www.linkedin.com/in/carolineninganga/"><i className="fab fa-twitter-square"></i> </a>
-                            </div>
+                            </div> */}
                         </div>
                     </Col>
                 </Row>
