@@ -13,7 +13,7 @@ const About = () => {
           </div>
           <div className="sociallinks">
               <a href="https://www.instagram.com/grace_giversmw/"><i className="fab fa-instagram-square"></i></a>
-              <a target="_blank"  href="https://github.com/carolninganga"><i className="fab fa-facebook-square"></i></a>
+              <a target="_blank"  href="https://www.facebook.com/gracegivermw.malawi"><i className="fab fa-facebook-square"></i></a>
               <a target="_blank"  href="https://www.twitter.com/GiversGrace/"><i className="fab fa-twitter-square"></i> </a>
           </div>
         </div>
