@@ -1,3 +1,23 @@
 body {
     background-color: rgb(224, 236, 238);
 }
+
+ /* Small Devices, Tablets
+ @media only screen and (min-width : 768px) {
+    width: 75%;
+    background-color: green;
+  }
+
+  /* Medium Devices, Desktops */
+  /* @media only screen and (min-width : 992px) {
+    width: 50%;
+    background-color: pink;
+  } */ 
+
+  @media only screen and (max-width: 768px) {
+    .gridContainer {
+      display: grid !important;
+      grid-template-columns: auto !important;
+      padding: 10px !important;
+    }
+  }

@@ -10,3 +10,8 @@
 .sociallinks {
   margin-left: 42%;
 }
+
+.sociallinks {
+  text-align: center;
+  margin: auto;
+}

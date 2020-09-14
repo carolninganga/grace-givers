@@ -5,3 +5,7 @@
 .mt-3 {
     margin-top: 15% !important;
   }
+
+.form-group {
+    margin-left: 15px;
+}
