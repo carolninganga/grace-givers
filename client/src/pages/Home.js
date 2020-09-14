@@ -19,7 +19,7 @@ class Home extends Component {
             <Container fluid="md">
                 <Row>
                     <Col>
-                        <div>
+                        <div className="logoImg">
                             <img sytle={{width:"300"}} src="https://cdn.glitch.com/823d971b-2ee5-4e17-bb98-ec24b973c4c0%2Fhomepagelogo.png?v=1598568102862" />
                         </div>
                         <div className="discription">
