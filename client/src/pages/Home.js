@@ -37,7 +37,7 @@ class Home extends Component {
                             <h2> Goals and Objectives</h2>
                             <p className="mission">
                             The goal of Grace Givers is to help children enjoy life and develop their
-                            intellectual capacity as they grow to maturity. To organisation will achieve this
+                            intellectual capacity as they grow to maturity. The organisation will achieve this
                             through the following specific objectives. In addition, we want to empower
                             women in daily activities such as food preparation, health tips and also
                             productive but low cost farming methods.

@@ -61,7 +61,7 @@ class ContactUs extends Component {
                 <label htmlFor="message" style={{color: "rgb(29, 157, 186)"}}>Message</label>
                 <textarea style={{color: "rgb(29, 157, 186)"}} className="form-control" rows="5" value={this.state.message} onChange={this.onMessageChange.bind(this)} />
             </div>
-            <button type="submit" className="btn btn-primary btn-block">Submit</button>
+            <button type="submit" className="btn btn-primary btn-block">Send</button>
             </form>
             </div>
     </div>
